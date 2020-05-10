@@ -19,4 +19,5 @@ class Router extends React.Component{
     }
 }
 
+console.log('Teste NovaBranch')
 export default Router;
