@@ -19,4 +19,5 @@ class Router extends React.Component{
     }
 }
 
+console.log('Teste Master')
 export default Router;
